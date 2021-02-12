@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - NPC
+  - Blocking
+  - FloorTrap
+  - Portal
+  - HardEnemy
+  - Wall
+  - Floor
+  - Light Orbs
+  - Enemies Spawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Agent
+  - Detailed
+  - Stairs
+  - Unclimbable
+  - See-Trough
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entities
+    uniqueID: 2832339563
+    locked: 0
+  - name: Details
+    uniqueID: 4000086191
+    locked: 0
